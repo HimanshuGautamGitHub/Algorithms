@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550775493 source:f:\codeblocks\projects\binary_search\main.cpp
+	<iostream>
+	<math.h>
+

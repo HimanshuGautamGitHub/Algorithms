@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550725148 source:f:\codeblocks\projects\selcetion_sort\main.cpp
+	<iostream>
+	<math.h>
+
